@@ -11,4 +11,3 @@ def count_empty_strings(array)
     element.empty?
   end
 end 
-end
