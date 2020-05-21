@@ -10,3 +10,5 @@ def count_empty_strings(array)
      if element.class == String
     element.empty?
   end
+end 
+end
